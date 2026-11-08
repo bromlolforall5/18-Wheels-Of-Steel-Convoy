@@ -202,4 +202,4 @@ This repository serves as the official landing page for **18 Wheels of Steel: Co
 **Get the most recent version of **18 Wheels of Steel: Convoy** today!**
 
 ---
-**Last updated:** 2026-11-08 16:36:38 UTC
+**Last updated:** 2026-11-08 20:59:05 UTC
